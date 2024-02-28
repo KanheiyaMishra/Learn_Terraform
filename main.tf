@@ -8,10 +8,8 @@ terraform {
 }
 
 provider "azurerm" {
-
   features {
-    
-  }
+      }
 }
 
 # Resource Group
